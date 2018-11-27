@@ -11,7 +11,7 @@
 
 ### prosper_bing_code.ipynb 
 * **Jupyter Nbviewer web optimized link:** http://bit.ly/2AqasJq
-* This jupyter notebook contains the R code (extracted from the .Rmd file) used to generate the visualizations in the above report.
+* This jupyter notebook contains the R code used to generate the visualizations in the above report (extracted from original .Rmd file)
 
 
 
