@@ -9,7 +9,6 @@
 
 * Link to data files: http://bit.ly/2AsqnH3
 
-<hr>
 ### prosper_bing_code.ipynb 
 **Jupyter Nbviewer web optimized link:** http://bit.ly/2AqasJq
 
