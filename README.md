@@ -1,7 +1,7 @@
 # Exploratory Data Analsis of Prosper P2P Lending Market
 
-### **prosper_bing.html** 
-github pages web optimized version: http://bit.ly/2JZ3GhK
+### prosper_bing.html
+<font color = 'green'>GitHub pages web optimized link</font>: http://bit.ly/2JZ3GhK
 
 * This report discusses the evolution of the Prosper Marketplace lending platform by looking at  different visualizations of the firm’s loan portfolio through time (coded in R).  
 
@@ -10,3 +10,7 @@ github pages web optimized version: http://bit.ly/2JZ3GhK
 * Link to data files: http://bit.ly/2AsqnH3
 
 <hr>
+### prosper_bing_code.ipynb 
+<font color = 'green'>Jupyter Nbviewer web optimized link</font>: http://bit.ly/2AqasJq
+
+
