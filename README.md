@@ -10,7 +10,7 @@
 * Link to data files: http://bit.ly/2AsqnH3
 
 ### prosper_bing_code.ipynb 
-* **Jupyter Nbviewer web optimized link:** http://bit.ly/2AqasJq
+* **Jupyter Nbviewer web optimized link:** http://bit.ly/2U5xSg3
 * This jupyter notebook contains an index of the R code used to generate the visualizations in the above report 
 <br>(extracted from the original .Rmd file for easier reading)
 
